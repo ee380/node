@@ -85,7 +85,7 @@ const customTypesMap = {
   'KeyObject': 'crypto.html#class-keyobject',
   'Sign': 'crypto.html#class-sign',
   'Verify': 'crypto.html#class-verify',
-  'crypto.constants': 'crypto.html#cryptoconstants',
+  'crypto.constants': 'crypto.html#crypto-constants',
 
   'CryptoKey': 'webcrypto.html#class-cryptokey',
   'CryptoKeyPair': 'webcrypto.html#class-cryptokeypair',
